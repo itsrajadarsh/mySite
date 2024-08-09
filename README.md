@@ -40,10 +40,6 @@ Explore different sections of the website:
 
 Feel free to fork the repository and submit pull requests for any improvements or additional features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 - LinkedIn: [itsrajadarsh](https://www.linkedin.com/in/itsrajadarsh/)
