@@ -6,8 +6,6 @@ Welcome to my personal website repository! This repository hosts the code for my
 
 [View Live](https://html-site-adarsh.vercel.app/)
 
-![Website Preview](preview.png) <!-- Add a preview image of your website -->
-
 ## Technologies Used
 
 - HTML5
