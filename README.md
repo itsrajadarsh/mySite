@@ -43,7 +43,6 @@ Feel free to fork the repository and submit pull requests for any improvements o
 ## Contact
 
 - LinkedIn: [itsrajadarsh](https://www.linkedin.com/in/itsrajadarsh/)
-- Twitter: [@itsrajadarsh](https://twitter.com/itsrajadarsh)
 - GitHub: [itsrajadarsh](https://github.com/itsrajadarsh)
 
 ---
